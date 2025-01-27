@@ -1,4 +1,7 @@
 # Polarity-Driven Lexical Clustering and Probabilistic Topic Modeling for Consumer Market Insights
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a713cac9-675d-439a-800a-d9b21fa87fa3" alt="Project Overview" width="500">
+</p>
 
 ## Project Overview
 This project focuses on analyzing consumer product reviews to uncover actionable insights using Natural Language Processing (NLP). The analysis aims to explore the sentiment dynamics of reviews, identify key topics within positive and negative sentiments, and perform clustering to group reviews based on underlying themes. This provides a deep understanding of consumer preferences and areas for product improvement.

@@ -3,6 +3,15 @@
 ## Project Overview
 This project focuses on analyzing consumer product reviews to uncover actionable insights using Natural Language Processing (NLP). The analysis aims to explore the sentiment dynamics of reviews, identify key topics within positive and negative sentiments, and perform clustering to group reviews based on underlying themes. This provides a deep understanding of consumer preferences and areas for product improvement.
 
+## Dataset
+The dataset used in this project was scraped from Amazon earphone product reviews. It includes the following columns:
+- **Date**: The date when the review was posted.
+- **Number of Stars**: The star rating given by the customer (on a scale of 1 to 5).
+- **Target**: Sentiment label indicating whether the review is positive or negative.
+- **Text**: The textual content of the customer review.
+
+This dataset provided a rich source of consumer opinions and feedback to conduct a comprehensive NLP analysis.
+
 ## Key Objectives
 1. **Sentiment Analysis**:
    - Performed sentiment classification to identify positive and negative reviews.
